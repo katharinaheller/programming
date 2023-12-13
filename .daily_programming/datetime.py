@@ -1,3 +1,4 @@
+#day 1 
 import datetime
 
 heutiges_datum = datetime.date.today()

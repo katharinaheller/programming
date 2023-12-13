@@ -1,3 +1,4 @@
+# day 2
 import random
 
 def guess_the_number():
