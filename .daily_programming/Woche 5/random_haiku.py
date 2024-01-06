@@ -14,6 +14,6 @@ def generiere_haiku():
     return haiku
 
 if __name__ == "__main__":
-    print("Generiere ein zufälliges Haiku:")
+    print("zufällig generiertes Haiku:")
     kreatives_haiku = generiere_haiku()
     print(kreatives_haiku)
