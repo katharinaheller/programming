@@ -31,7 +31,7 @@ class Quiz:
         elif prozentsatz_richtig >= 50:
             print('Nicht schlecht! Du hast die Hälfte der Fragen oder mehr richtig beantwortet.')
         else:
-            print('Leider hast du weniger als die Hälfte der Fragen richtig beantwortet. Versuche es doch gleich nochmal!')
+            print('Leider hast du weniger als die Hälfte der Fragen richtig beantwortet. Versuche es!')
 
 # Beispielverwendung
 if __name__ == "__main__":

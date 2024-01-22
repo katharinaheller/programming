@@ -10,7 +10,6 @@ def is_prime(number):
             return False
     return True
 
-# Get user input for the number to check for primality
 num_to_check = int(input("Enter a number to check for primality: "))
 result = is_prime(num_to_check)
 

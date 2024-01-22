@@ -22,8 +22,8 @@ def main():
     # Beispieltext mit Email-Adressen
     sample_text = """
     Beispieltext mit Email-Adressen:
-    john.doe@example.com
-    alice_smith@email.de
+    alex.doe@example.com
+    max_smith@email.de
     contact@company.org
     """
 
