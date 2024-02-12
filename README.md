@@ -1,7 +1,7 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# GitHub Codespaces ♥️ 
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Die Inhalte meiner täglichen Programmierübungen sind in der Datei ".daily_programming" zu finden. Ich habe meine Coding-Gewohnheiten dort jeweils unter den entsprechenden Wochennummern organisiert, um die Übersichtlichkeit zu verbessern und meine Fortschritte hinsichtlich Komplexität, Inhalt und Struktur besser nachvollziehen zu können.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Für umfassendere Erklärungen zu Prinzipien und Grundlagen des Codes sowie zu den Motivationen hinter der Entwicklung der Programme verweise ich auf die Diskussionen, die in den jeweiligen Abschnitten zu finden sind. Dort erläutere ich detaillierter die zugrunde liegenden Konzepte und Ziele meiner Arbeit.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Sollten mehrere Commits gleichzeitig hochgeladen worden sein, so geschah dies, weil ich sie bis zu meiner wöchentlichen Diskussion aufgespart hatte. Dies ermöglichte es mir, sie bis dahin gründlich und detailliert zu überarbeiten. Auf diese Weise konnte ich meinen Lernerfolg maximieren und bin in der Lage, bereits erstellte Programme eigenständig weiterzuentwickeln.
