@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ 
+# GitHub Codespaces 
 
 Die Inhalte meiner täglichen Programmierübungen sind in der Datei ".daily_programming" zu finden. Ich habe meine Coding-Gewohnheiten dort jeweils unter den entsprechenden Wochennummern organisiert, um die Übersichtlichkeit zu verbessern und meine Fortschritte hinsichtlich Komplexität, Inhalt und Struktur besser nachvollziehen zu können.
 
