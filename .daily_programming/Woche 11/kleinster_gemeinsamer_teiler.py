@@ -4,23 +4,12 @@ from math import gcd
 def find_lcm(x, y):
     return abs(x * y) // gcd(x, y)
 
-def find_factors(x, y):
-    lcm = find_lcm(x, y)
-    factors = []
-    if x != 0 and y != 0:
-        factor_x = lcm // x
-        factor_y = lcm // y
-        factors.append((factor_x, factor_y))
-    return factors
-
 def find_smallest_common_divisor():
     try:
         num1 = int(entry1.get())
         num2 = int(entry2.get())
         lcm = find_lcm(num1, num2)
-        factors = find_factors(num1, num2)
-        factors_str = ", ".join([f"{factor[0]} * {num1} und {factor[1]} * {num2}" for factor in factors])
-        result_label.config(text=f"Der kleinste gemeinsame Teiler ist: {lcm}. Er kann erreicht werden durch Multiplikation von: {factors_str}")
+        result_label.config(text=f"Der kleinste gemeinsame Teiler ist: {lcm}")
     except ValueError:
         result_label.config(text="Bitte geben Sie gültige Ganzzahlen ein.")
 
